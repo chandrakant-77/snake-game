@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color:black;
+    text-align: center;
+}
+
+#wrapper {
+    display: inline-block;
+    margin: 20px;
+}
+
+#game-container {
+    display: inline-block;
+    border: solid 1px white;
+}
+
+#score-div {
+    color: white;
+    font-size: 23px;
+    font-weight: bold;
+    font-family: "Lucida Console", "Courier New", monospace;
+    text-align: center;
+    margin: 15px 0;
+}
+
+#theme-audio {
+    display: none;
+}
